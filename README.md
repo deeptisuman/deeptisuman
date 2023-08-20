@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Hello!👋 My name is *Deepti Suman*
+- Hello!👋 My name is **Deepti Suman.** I am from Lovely Professional University pursuing Btech CSE.🎓
+- I have a huge interest in UX and UI design 📝 as well as coding 👩‍💻! Currently studying react js ⚛, practicing DSA, and being a successful UX and UI designer.
+- Currently Core Team Member at Google Developer Students Club-LPU
+- I love to join different communities and competitions that involve creating something for society. 🙋‍♀️
 
 
 ## 🌐 Socials:
