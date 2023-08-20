@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @deeptisuman<br>- 👀 I’m interested in developing mobile applications.<br>- 🌱 I’m currently learning Basics<br>- 💞️ I’m looking to collaborate on!<br>- 📫 How to reach me- suman766deepti@gmail.com
+- Hello!👋 My name is *Deepti Suman*
 
 
 ## 🌐 Socials:
